@@ -42,4 +42,4 @@ jobs:
         run: |
           git push origin main
           # 如果需要同步 tags 也可以打开下面这行
-          git push origin --tags
+          # git push origin --tags
